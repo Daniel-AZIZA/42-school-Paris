@@ -1,0 +1,16 @@
+-phpmyadmin :
+username : admin
+mdp : pass
+
+-grafana :
+username : admin
+mdp : admin
+
+-wordpress :
+username : user42
+mdp : user42
+
+-ftps :
+username : root
+mdp : pass
+
