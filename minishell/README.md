@@ -180,10 +180,6 @@ Some remarks:
 * The ``PWD`` is colored blue and dynamically replaces the ``HOME`` variable with ``~`` when the variable is set. See below for more details
 * The ``$`` in the end is printed blue or red depending on the exit status in the struct
 
-![Screenshot from 2021-11-24 13-29-43](https://user-images.githubusercontent.com/40824677/143238700-8878c4f3-4763-4c8f-976e-aae049c9ed57.png)
-![Screenshot from 2021-11-24 18-30-37](https://user-images.githubusercontent.com/40824677/143287061-7b87efc3-d5ea-4d65-b2f0-87fe5e96ba17.png)
-
-
 ## Installation
 
 * Prerequisites
